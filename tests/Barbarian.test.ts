@@ -19,7 +19,7 @@ describe('Barbarian', (): void => {
 
     expect(attributes.people).to.equal('Barbarian');
     expect(attributes.nation).to.equal('Barbarians');
-    expect(attributes.colors).to.eql(['#7A7A7A', '#D50000']);
+    expect(attributes.colors).to.eql(['#8C8C8C', '#4A0000']);
   });
 
   it('is led by Attila', (): void => {
